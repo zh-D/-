@@ -1,0 +1,1 @@
+TSLint 和 ESLint 比较相似，他也是针对代码的编程规范进行检查。从名字上看，TSLint 应该更加针对 TypeScript 语法。
